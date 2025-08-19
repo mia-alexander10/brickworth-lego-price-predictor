@@ -1,0 +1,483 @@
+id,parent_id,name
+1,,Technic
+3,1.0,Competition
+4,1.0,Expert Builder
+16,1.0,RoboRiders
+17,1.0,Speed Slammers
+18,1.0,Star Wars
+19,1.0,Supplemental
+20,1.0,Throwbot Slizer
+21,1.0,Universal Building Set
+22,,Creator
+34,,Make & Create
+35,34.0,Bricks & More
+50,,Town
+51,50.0,Arctic
+52,,City
+53,52.0,Airport
+54,52.0,Cargo
+55,52.0,Coast Guard
+56,52.0,Construction
+57,52.0,Farm
+58,52.0,Fire
+59,52.0,Harbor
+60,52.0,Hospital
+61,52.0,Police
+63,52.0,Traffic
+64,52.0,Off-Road
+65,52.0,Arctic
+66,52.0,Trains
+67,50.0,Classic Town
+86,50.0,Divers
+87,50.0,Extreme Team
+88,50.0,Launch Command
+89,50.0,Outback
+90,50.0,Paradisa
+91,50.0,Race
+92,50.0,Res-Q
+93,50.0,Space Port
+94,50.0,Town Jr.
+104,50.0,Town Plan
+105,50.0,World City
+106,50.0,City Center
+112,,Racers
+114,112.0,Ferrari
+118,112.0,Promotional
+122,112.0,RC
+123,112.0,World Racers
+126,,Space
+127,126.0,Alien Conquest
+128,126.0,Blacktron I
+129,126.0,Blacktron II
+130,126.0,Classic Space
+131,126.0,Exploriens
+132,126.0,Futuron
+133,126.0,Ice Planet 2002
+134,126.0,Insectoids
+135,126.0,Life On Mars
+136,126.0,M:Tron
+137,126.0,Mars Mission
+138,126.0,RoboForce
+139,126.0,Space Police I
+140,126.0,Space Police II
+141,126.0,Space Police III
+142,126.0,Spyrius
+143,126.0,Supplemental
+144,126.0,UFO
+145,126.0,Unitron
+146,126.0,Galaxy Squad
+147,,Pirates
+148,147.0,Pirates I
+153,147.0,Pirates II
+154,147.0,Pirates III
+155,,Modular Buildings
+156,155.0,Mini
+157,598.0,Bricktober
+158,,Star Wars
+171,158.0,Ultimate Collector Series
+186,,Castle
+187,186.0,Black Falcons
+188,186.0,Black Knights
+189,186.0,Classic Castle
+190,186.0,Dragon Knights
+191,186.0,Dark Forest
+193,186.0,Fantasy Era
+194,186.0,Forestmen
+195,186.0,Fright Knights
+196,186.0,Kingdoms
+197,186.0,Knights Kingdom I
+198,186.0,Knights Kingdom II
+199,186.0,Lion Knights
+201,186.0,Royal Knights
+203,186.0,Wolfpack
+204,22.0,Designer Sets
+206,,Seasonal
+207,206.0,Advent
+208,207.0,City
+209,207.0,Star Wars
+210,207.0,Belville
+211,207.0,Castle
+212,207.0,Classic Basic
+213,207.0,Clikits
+214,207.0,Creator
+215,207.0,Pirates
+216,207.0,Friends
+227,206.0,Christmas
+228,227.0,Creator
+229,206.0,Easter
+230,206.0,Halloween
+231,206.0,Thanksgiving
+232,206.0,Valentine
+233,,Train
+234,233.0,12V
+235,233.0,4.5V
+236,233.0,9V
+240,233.0,RC Train
+241,233.0,Supplemental
+246,,Harry Potter
+252,,Architecture
+253,252.0,Skylines
+254,,Bulk Bricks
+258,,Mindstorms
+259,258.0,NXT
+260,258.0,RCX
+261,258.0,Star Wars
+262,258.0,EV3
+263,608.0,Pirates of the Caribbean
+264,,Indiana Jones
+269,,Cars
+270,,Ben 10
+271,608.0,Prince of Persia
+272,,SpongeBob SquarePants
+273,,Studios
+274,273.0,Jurassic Park III
+275,,Toy Story
+276,,Sculptures
+277,276.0,Mosaic
+278,,Model Team
+279,,4 Juniors
+280,279.0,Jack Stone
+287,279.0,Spider-Man
+296,,Adventurers
+297,296.0,Desert
+298,296.0,Dino Island
+299,296.0,Jungle
+300,296.0,Orient Expedition
+301,,Other
+302,,Agents
+303,302.0,Ultra Agents
+304,,Alpha Team
+305,304.0,Mission Deep Sea
+306,304.0,Mission Deep Freeze
+307,,Aquazone
+308,307.0,Aquanauts
+309,307.0,Aquaraiders I
+310,307.0,Aquaraiders II
+311,307.0,Aquasharks
+312,307.0,Hydronauts
+313,307.0,Stingrays
+315,,Atlantis
+317,,Avatar: The Last Airbender
+318,,Belville
+324,,Bionicle
+341,324.0,Playsets
+360,324.0,Protectors
+363,,Boat
+364,,Building Set with People
+365,,System
+368,365.0,HO 1:87 Vehicles
+369,365.0,Jumbo Bricks
+371,365.0,Supplemental
+372,365.0,Town Plan
+385,,Dino Attack / Dino 2010
+386,,Dinosaurs
+387,,Discovery
+388,608.0,Mickey Mouse
+389,,Exo-Force
+390,,Fabuland
+397,,Factory
+398,,FIRST LEGO League
+399,,Freestyle
+400,,Hero Factory
+401,400.0,Heroes
+403,400.0,Villains
+404,,Hobby Sets
+405,,Homemaker
+406,22.0,Inventor
+407,,Island Xtreme Stunts
+408,,LEGO Brand Store
+409,408.0,Monthly Mini Model Build
+410,408.0,Pick A Model
+411,,Legoland
+412,411.0,Airport
+413,411.0,Building
+414,411.0,Castle
+415,411.0,Coast Guard
+416,411.0,Construction
+417,411.0,Fire
+418,411.0,Gas Station
+419,411.0,Harbor
+420,411.0,Hospital
+421,411.0,Police
+422,411.0,Space
+423,411.0,Vehicle
+424,411.0,Western
+425,,Legoland Parks
+432,,Master Builder Academy
+433,,Minitalia
+434,,Ninja
+435,,Ninjago
+437,,Pharaoh's Quest
+438,,Power Functions
+439,,Power Miners
+440,,Primo
+441,,Quatro
+442,,Rock Raiders
+443,,Service Packs
+453,443.0,Technic
+456,443.0,Train
+458,,Sports
+459,458.0,Basketball
+460,458.0,Gravity Games
+461,458.0,Hockey
+462,458.0,Soccer
+463,,Spybotics
+464,,Time Cruisers
+465,,Universal Building Set
+467,465.0,Basic
+470,465.0,Classic Basic
+471,598.0,Ferries
+472,465.0,Gears
+473,465.0,Supplemental
+474,,Vikings
+475,,Western
+478,22.0,X-Pod
+480,,Znap
+481,,Dino
+494,,Friends
+497,,Books
+498,497.0,Technic
+500,,Clikits
+501,,Gear
+502,,Games
+503,501.0,Key Chain
+504,,Duplo
+505,504.0,Basic Set
+506,754.0,Cars
+507,,Educational and Dacta
+509,507.0,SPIKE
+510,507.0,Serious Play
+511,507.0,Building Set with People
+516,507.0,Duplo and Explore
+517,507.0,Learning
+518,507.0,Mindstorms
+519,518.0,NXT
+520,518.0,RCX
+521,518.0,WeDo
+523,507.0,Samsonite
+524,507.0,Service Packs
+525,524.0,Technic
+526,507.0,Soft Bricks
+528,507.0,Supplemental
+529,507.0,Technic
+530,529.0,Control Lab
+531,529.0,eLAB
+533,507.0,Town
+534,507.0,Universal Building Set
+535,,Collectible Minifigures
+536,535.0,Series 1 Minifigures
+537,535.0,Series 2 Minifigures
+538,535.0,Series 3 Minifigures
+539,535.0,Series 4 Minifigures
+540,535.0,Series 5 Minifigures
+541,535.0,Series 6 Minifigures
+542,535.0,Series 7 Minifigures
+543,535.0,Series 8 Minifigures
+544,535.0,Series 9 Minifigures
+545,535.0,Series 10 Minifigures
+546,535.0,Team GB
+547,535.0,Series 11 Minifigures
+548,535.0,Series 12 Minifigures
+549,535.0,The LEGO Movie
+550,535.0,The Simpsons Series 1
+551,535.0,Series 13 Minifigures
+552,535.0,Series 14 Minifigures
+553,535.0,The Simpsons Series 2
+554,535.0,Series 15 Minifigures
+555,535.0,Disney Series 1
+556,535.0,Series 16 Minifigures
+557,535.0,DFB Minifigures
+558,,Monster Fighters
+559,,Value Packs
+560,,Universe
+561,,The Hobbit and Lord of the Rings
+562,561.0,The Hobbit
+566,561.0,The Lord of the Rings
+570,,Teenage Mutant Ninja Turtles
+571,,Legends of Chima
+572,571.0,Speedorz
+573,571.0,Constraction
+575,,The Lone Ranger
+576,,LEGO Ideas and CUUSOO
+577,,Minecraft
+578,,The LEGO Movie
+579,608.0,Disney Princess
+580,,Mixels
+590,,Fusion
+591,,Juniors
+592,591.0,DC Comics Super Heroes
+593,591.0,Disney Princess
+595,591.0,Friends
+596,591.0,Marvel Super Heroes
+597,591.0,Ninjago
+598,,Promotional
+599,,LEGO Exclusive
+600,,Elves
+601,,Speed Champions
+602,,Jurassic World
+603,,Scooby-Doo
+604,,Dimensions
+605,,Nexo Knights
+606,,Angry Birds
+607,,Ghostbusters
+608,,Disney
+609,535.0,The LEGO Batman Movie Series 1
+610,,Brickheadz
+611,535.0,Series 17 Minifigures
+614,52.0,Jungle
+615,591.0,Cars
+616,435.0,The LEGO Ninjago Movie
+617,,DC Super Hero Girls
+618,535.0,The LEGO Ninjago Movie
+619,408.0,Cities of Wonders
+620,591.0,Jurassic World: Fallen Kingdom
+621,,Classic
+622,535.0,Series 18 Minifigures
+625,,Unikitty!
+626,504.0,Bob the Builder
+627,754.0,Planes
+628,504.0,Dora the Explorer
+629,754.0,Miles From Tomorrowland
+630,504.0,Marvel
+631,504.0,Thomas & Friends
+632,504.0,Town
+633,754.0,Toy Story
+634,504.0,Trains
+635,754.0,Winnie the Pooh
+636,632.0,My Town
+638,754.0,Jake and the Never Land Pirates
+639,504.0,Sofia the First
+640,754.0,Disney Princess
+641,754.0,Mickey & Friends
+646,,Xtra
+647,504.0,Castle
+648,754.0,Doc McStuffins
+650,632.0,Legoville
+651,504.0,Pirates
+652,504.0,Playhouse
+653,504.0,DC Comics
+654,,The Powerpuff Girls
+655,438.0,Powered Up
+656,535.0,Harry Potter and Fantastic Beasts Series 1
+657,504.0,Action Wheelers
+658,504.0,Dino
+659,504.0,Dolls
+660,504.0,Little Forest Friends
+661,504.0,Little Robots
+662,504.0,Princess Castle
+663,504.0,Rattles
+664,504.0,Toolo
+665,504.0,Western
+666,504.0,Zooters
+667,246.0,Fantastic Beasts
+668,,Scala
+669,,Overwatch
+670,578.0,The LEGO Movie II
+671,,Forma
+672,22.0,Creator 3-in-1
+673,22.0,Creator Expert
+674,22.0,Early Creator
+675,535.0,The LEGO Movie II
+676,,Hidden Side
+677,535.0,Disney Series 2
+679,52.0,Mars Exploration
+680,,Stranger Things
+681,535.0,Series 19 Minifigures
+682,,Trolls: World Tour
+683,,LEGO Originals
+684,535.0,DC Super Heroes
+685,,Galidor
+686,,Chinese Traditional Festivals
+687,608.0,Frozen
+688,,DOTS
+689,,Minions
+690,,Super Mario
+691,535.0,Harry Potter and Fantastic Beasts Series 2
+692,535.0,Series 20 Minifigures
+693,,Monkie Kid
+694,,Brick Sketches
+695,,Super Heroes DC
+696,,Super Heroes Marvel
+697,695.0,Batman
+698,697.0,UCS
+700,695.0,Justice League
+701,695.0,Superman
+702,696.0,Avengers
+704,696.0,Guardians of the Galaxy
+705,696.0,Iron Man
+706,696.0,Spider-Man
+707,696.0,X-Men
+708,697.0,The LEGO Batman Movie
+709,,LEGO Art
+710,207.0,Harry Potter
+711,535.0,The LEGO Batman Movie Series 2
+712,535.0,Series 21 Minifigures
+713,,VIDIYO
+714,535.0,Looney Tunes
+715,535.0,Marvel Series 1
+716,,Modulex
+717,,Speed Racer
+718,535.0,Series 22 Minifigures
+719,,BrickLink Designer Program
+720,535.0,The Muppets
+721,,Icons
+722,504.0,Jurassic World
+724,,Avatar
+725,535.0,Series 23 Minifigures
+728,598.0,McDonalds
+729,598.0,Airlines
+730,501.0,Audio and Visual Media
+731,501.0,Bag and Luggage Tags
+732,501.0,Clocks and Watches
+733,501.0,Houseware
+734,501.0,Magnets
+735,501.0,Plush Toys
+736,501.0,Posters and Art Prints
+737,501.0,Role Play Toys and Costumes
+738,501.0,Seasonal
+739,501.0,Stationery and Office Supplies
+740,501.0,Storage
+741,501.0,Tabletop Games and Puzzles
+742,501.0,Video Games and Accessories
+743,535.0,Series 24 Minifigures
+744,52.0,Stuntz
+745,535.0,Disney 100
+746,301.0,Database Sets
+747,,Sonic The Hedgehog
+748,,Gabby's Dollhouse
+749,,Dreamzzz
+750,535.0,Marvel Series 2
+751,207.0,Marvel
+752,,Animal Crossing
+753,535.0,Series 25 Minifigures
+754,504.0,Disney
+755,706.0,Spidey and His Amazing Friends
+756,365.0,Samsonite
+757,497.0,Ideas Books
+758,497.0,Non-fiction Books
+759,497.0,Story Books
+760,497.0,Activity Books
+761,497.0,Activity Books with LEGO Parts
+762,535.0,Series 26 Minifigures
+763,,Despicable Me 4
+764,,The Legend of Zelda
+765,,Wicked
+766,,Fortnite
+767,535.0,Dungeons & Dragons
+768,,Wednesday
+769,,Botanicals
+770,,Horizon Adventures
+771,535.0,Series 27 Minifigures
+772,,Bluey
+774,535.0,Formula 1
+775,,One Piece
+776,,Pokémon
+777,501.0,"Bags, Totes, & Luggage"
+778,598.0,VIP Add-On Packs
+779,206.0,Chinese (Lunar) New Year
+780,207.0,Disney
+781,696.0,The Infinity Saga
+782,696.0,Captain America
+783,591.0,Incredibles 2
+784,535.0,Spider-Man - Across the Spider-Verse
+785,,Nike
